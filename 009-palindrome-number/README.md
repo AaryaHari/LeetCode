@@ -1,0 +1,1 @@
+u# palindrome number
